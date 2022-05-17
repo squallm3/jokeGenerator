@@ -2,4 +2,4 @@
 
 ## Features
 
-An app that randomly puts messages to the user.
+An app that randomly puts messages to the user.git

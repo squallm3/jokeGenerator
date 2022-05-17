@@ -32,4 +32,10 @@ const jokes = [
 
 let randomMessage = () => jokes[Math.floor(Math.random() * 30)];
 
-console.log(randomMessage());
+
+let x = 0;
+do {
+    console.log(randomMessage());
+    x++;
+}
+while (x < 3);
